@@ -13,3 +13,10 @@ mkdir linuxmint sequencia lsls
 COMANDOS DE ISTALAÇÃ: sudo apt update && sudo apt istall git
 
 GIT CLONE trazer arquivos do git e clonar
+
+echo grita mostra na tela       
+
+^ mostra oq foi execultado
+ 
+TOUCH mudar hora e data de do arquivo 
+
